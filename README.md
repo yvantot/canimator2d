@@ -1,24 +1,16 @@
-# CAnimator2D
+# CAnimator
 ![image](https://github.com/yvantot/canimator2d/assets/123827898/f167bd60-4b71-4877-af05-877d5c7f14a1)
 
-_ASCII/Pixel mixed art directly in your console_
+_Make pixel & ASCII animation/art directly in your command line_
 
-**What is CAnimator2D**
-- It is a pixel - ASCII mixed art software
-where users can make art with pixels
-and text symbols.
-- A single C++ source file that can be
-up and running easily in Windows
-system.
-- A program for art enthusiast that
-loves making art no matter the
-medium!
+**What is CAnimator**
+- It allows you to make an animation in pixel/ASCII style.
+- It supports mouse operation.
+- A single C++ file.
 
 **Features**
-- Line, rectangle, fill, symbol, text tool and many more
-- Animation support
-- Mouse/keyboard support
-- Save/load support
+- Line tool, rectangle tool, fill tool, smart background coloring, text tool and more.
+- Export and import animations.
 
 **Get Started**
 - Download the .cpp file

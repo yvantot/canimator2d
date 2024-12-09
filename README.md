@@ -1,5 +1,6 @@
 # CAnimator
-![image](https://github.com/yvantot/canimator2d/assets/123827898/f167bd60-4b71-4877-af05-877d5c7f14a1)
+![image](https://github.com/user-attachments/assets/efe19ed6-1cb7-4abd-aa2a-de84a7cd9331)
+
 
 _Make pixel & ASCII animation/art directly in your command line_
 
